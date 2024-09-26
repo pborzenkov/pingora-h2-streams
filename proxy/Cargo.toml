@@ -1,0 +1,10 @@
+[package]
+name = "proxy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-trait = "0.1"
+clap = "3.2"
+pingora-core = "0.3.0"
+pingora-proxy = "0.3.0"
